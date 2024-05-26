@@ -26,3 +26,6 @@ export {
     initialState as vmInitialState,
     setVM
 };
+stopAll () {
+        window.location.replace("http://en.scratch.wiki.info/w/images/Explode.gif");
+}
