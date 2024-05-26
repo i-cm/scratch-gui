@@ -29,3 +29,6 @@ export {
     setFullScreen,
     setPlayer
 };
+stopAll () {
+        window.location.replace("http://en.scratch.wiki.info/w/images/Explode.gif");
+}
